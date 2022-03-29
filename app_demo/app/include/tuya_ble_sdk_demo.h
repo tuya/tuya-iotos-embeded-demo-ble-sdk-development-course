@@ -33,9 +33,9 @@ extern "C"
 //FIR - firmware, FVER - firmware version, HVER - hardware version
 #define TY_DEVICE_NAME        "demo"
 #define TY_DEVICE_PID         "evitsagj"
-#define TY_DEVICE_MAC         "DC234D71D0AC"
-#define TY_DEVICE_DID         "tuya941e7dd4af5d" //16Bytes
-#define TY_DEVICE_AUTH_KEY    "NzhAS7Lvf1uxA3JFucRtduU2y3FZwsw2" //32Bytes
+#define TY_DEVICE_MAC         "xxxxxxxxxxxx"
+#define TY_DEVICE_DID         "xxxxxxxxxxxxxxxx" //16Bytes
+#define TY_DEVICE_AUTH_KEY    "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" //32Bytes
 
 #define TY_DEVICE_FIR_NAME    "ble_module_sdk_development_demo"
 #define TY_DEVICE_FVER_NUM    0x00000100
