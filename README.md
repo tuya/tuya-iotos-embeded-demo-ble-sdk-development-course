@@ -1,5 +1,7 @@
 # Tuya Bluetooth Low Energy SDK Development Tutorial
 
+[English](./README.md) | [中文](./README_zh.md)
+
 <br>
 
 ## Overview
@@ -7,7 +9,7 @@
 This demo works with the [Bluetooth Low Energy (LE) SDK Development Tutorial](https://developer.tuya.com/en/docs/iot/bluetooth-le-sdk-development?id=Kbe6do0lc2wc2) (currently, this documentation is only available in Chinese).
 
 - `app_demo`: used for [Application Development](https://developer.tuya.com/en/docs/iot/application-development?id=Kbe6embsa0wtu) (currently, this documentation is only available in Chinese).
-- `board_api_demo`: used for [Board API Reference](https://developer.tuya.com/en/docs/iot/application-development?id=Kbe6embsa0wtu) (currently, this documentation is only available in Chinese).
+- `board_api_demo`: used for [Board API Reference](https://developer.tuya.com/en/docs/iot/board-api-description?id=Kbfkd5hmgakvl) (currently, this documentation is only available in Chinese).
 
 <br>
 
